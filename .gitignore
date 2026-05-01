@@ -1,0 +1,9 @@
+.idea
+venv310
+**/__pycache__/**
+*.pyc
+*.pth
+*.pt
+*.pyc
+gpt2
+*.ckpt
